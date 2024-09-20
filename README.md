@@ -22,4 +22,4 @@ Based on these insights, I made several recommendations to BellaBeat:
 # Outcome:
 This project can be culminated in a presentation to BellaBeat’s founders, where key insights will be highlighted and demonstrate how the data could be used to improve marketing strategies and product offerings. BellaBeat uses targeted recommendations can be used to increase user retention and improve the overall user experience.
 
-![image](https://github.com/user-attachments/assets/9a0dd2e7-26e3-4da9-b5f8-ef74585761b1)
+
