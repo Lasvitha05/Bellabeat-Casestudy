@@ -1,4 +1,4 @@
-# Capstone Project: BellaBeat Data Analysis & Viz - A Caste study
+# Capstone Project: BellaBeat Data Analysis & Viz - A Case study
 
 # Role: Junior Data Analyst at BellaBeat
 As part of my Google Data Analytics Professional Certificate capstone project, I worked with BellaBeat, a high-tech company that manufactures health-focused smart devices for women. My role was to analyze smart device usage data collected from Fitbit to provide insights that would inform BellaBeat’s marketing strategy, focusing on customer behavior trends and feature usage. The project spanned multiple phases, from data cleaning and analysis to deriving actionable recommendations.
